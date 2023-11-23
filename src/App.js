@@ -9,7 +9,7 @@ import "./App.css";
 import SignUp from "./components/SignUp";
 import Blog from "./components/Blog";
 import Update from "./components/update";
-import Create from "./components/Create";
+import Create from "./components/create";
 function App() {
   return (
     <div className="App">
