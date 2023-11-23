@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
-import ".//Create.css";
+import "./Create.css";
 function Create() {
   const [title, setTitle] = useState();
   const [content, setContent] = useState();
